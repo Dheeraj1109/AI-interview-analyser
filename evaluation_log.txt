@@ -1,0 +1,125 @@
+Q: What is a lambda expression
+A: [Error] Could not process audio file: [WinError 2] The system cannot find the file specified
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 0/5
+
+**Explanation:**
+
+The candidate's answer is completely unusable due to a transcription error.  There is no answer provided, rendering any evaluation of correctness, completeness, clarity, or relevance impossible.  The error message indicates a problem with the audio file itself, preventing any assessment of the candidate's knowledge of lambda expressions in Java.  The lack of retrieved documents from the knowledge base is irrelevant given the failure to obtain the candidate's response.
+
+------------------------------------------------------------
+
+Q: Is Java a compiled or interpreted language
+A: y
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Correctness:** 1/5
+
+The answer "y" is insufficient and incorrect.  It doesn't address whether Java is compiled or interpreted.
+
+**Completeness:** 1/5
+
+The answer is extremely incomplete. It provides no explanation or detail.
+
+**Clarity:** 1/5
+
+While the answer is short and clear in its brevity, it lacks clarity because it doesn't answer the question.
+
+**Relevance:** 1/5
+
+The answer is technically relevant to the question, but it's so insufficient that the relevance is minimal.  It doesn't demonstrate any understanding.
+
+
+**Overall Score:** 1/5
+
+The candidate's response demonstrates a complete lack of understanding of the question and the nature of Java.  A proper answer would explain that Java is both compiled *and* interpreted (it's compiled to bytecode, then interpreted by the JVM).
+
+------------------------------------------------------------
+
+Q: What is annotation
+A: a way of explaining or comment added to a text or diagram
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 2/5
+
+**Explanation:**
+
+The candidate's answer is partially correct but lacks completeness and precision.  While mentioning "explaining or comment added to a text or diagram" touches upon a general aspect of annotation, it's far too broad and doesn't capture the specific meaning in the context of programming or software development (which is likely the intended focus of a Java interview question).  In programming, annotations are metadata about the code itself, used by the compiler, runtime environment, or tools.  The candidate's answer is relevant to the general meaning of annotation but fails to address the specialized meaning within the context of the question. The lack of specificity impacts clarity.  The answer is understandable but not technically accurate or sufficiently detailed for a Java interview setting.
+
+------------------------------------------------------------
+
+Q: What is Optional in Java 8
+A: [Error] Could not process audio file: recognition request failed: Bad Request
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 0/5
+
+**Explanation:**
+
+The candidate provided no answer due to a technical error ("Could not process audio file").  Therefore, the answer cannot be evaluated for correctness, completeness, clarity, or relevance.  A score of 0 reflects the complete absence of a substantive response.
+
+------------------------------------------------------------
+
+Q: What are Java access modifiers
+A: these are the acces modifiers
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+Score: 1/5
+
+**Correctness:** The candidate only states "these are the access modifiers," which is technically correct but provides no information about *what* the access modifiers are.  This is insufficient.
+
+**Completeness:**  The answer is extremely incomplete. It fails to list or describe any of the Java access modifiers (public, private, protected, default/package-private).
+
+**Clarity:** The answer is unclear. While grammatically simple, it lacks any substance.  It doesn't explain anything.
+
+**Relevance:** The answer is relevant to the question, but only in the most superficial sense.  It correctly identifies the topic but provides zero useful detail.
+
+The candidate demonstrated a complete lack of understanding of Java access modifiers.  A response listing and briefly explaining each modifier would be expected.
+
+------------------------------------------------------------
+
+Q: What is composition
+A: jfrrkf
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 0/5
+
+**Explanation:** The candidate's response ("jfrrkf") is completely unintelligible and demonstrates no understanding of composition in the context of Java programming.  It lacks correctness, completeness, clarity, and relevance.  The answer provides no information related to the question.  The absence of relevant documents from the knowledge base doesn't excuse a completely nonsensical response; the candidate should have still attempted to answer the question based on their existing knowledge.
+
+------------------------------------------------------------
+
+Q1: What is exception handling
+A: exception handling is
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+Score: 1/5
+
+Explanation: The candidate's answer is completely insufficient.  "Exception handling is" provides no explanation or definition whatsoever.  It lacks correctness, completeness, clarity, and relevance because it doesn't address the question in any meaningful way.  The absence of retrieved documents doesn't excuse this – a basic understanding of exception handling should be possessed by any Java candidate.
+
+------------------------------------------------------------
+
+Q2: What are packages in Java
+A: Java is a computer network
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 1/5
+
+**Explanation:**
+
+The candidate's answer is completely incorrect and irrelevant.  They incorrectly identify Java as a computer network.  This demonstrates a fundamental misunderstanding of core Java concepts.  The answer lacks clarity and completeness; it offers no information about Java packages.  Therefore, it receives a very low score across all evaluation criteria.
+
+------------------------------------------------------------
+
+Q3: What is annotation
+A: mission is given to annotate a word
+Context: No relevant documents were retrieved from the knowledge base.
+Evaluation:
+**Score:** 1/5
+
+**Explanation:**
+
+The candidate's answer, "mission is given to annotate a word," is insufficient and unclear.  It doesn't define what annotation is. While it mentions the *act* of annotation (a "mission" to annotate), it provides no explanation of its purpose or meaning within the context of programming or any other field.  The answer lacks correctness, completeness, and clarity.  Relevance is difficult to assess given its incompleteness but it's clearly not a relevant answer to the question about what annotation *is*.  A proper answer would define annotation, perhaps giving examples like adding metadata to data points, marking up text for Natural Language Processing (NLP), or adding comments to code.
+
+------------------------------------------------------------
+
